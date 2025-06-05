@@ -34,13 +34,11 @@
 - [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
 
----
 
 ##  Overview
 
 Screenrecorder-with-hbrecorder is a user-friendly tool that simplifies screen recording on Android devices. With intuitive controls for starting and stopping recordings, managing audio settings, and checking storage availability, this project enhances the user experience. Ideal for content creators, educators, and professionals needing a reliable screen recording solution.
 
----
 
 ##  Features
 
@@ -56,7 +54,6 @@ Screenrecorder-with-hbrecorder is a user-friendly tool that simplifies screen re
 | 🛡️ | **Security**      | <ul><li>Utilizes **ProGuard** for code obfuscation and enhancing app security.</li><li>**Preserves line number info** for debugging stack traces.</li><li>Enhances **app security** through controlled configuration files.</li></ul> |
 | 📦 | **Dependencies**  | <ul><li>Manages **library versions** and dependencies using **gradle/libs.versions.toml**.</li><li>Includes **external dependencies** for enhanced functionality.</li><li>**Centralized dependency management** for easy updates and maintenance.</li></ul> |
 
----
 
 ##  Project Structure
 
@@ -266,7 +263,6 @@ Screenrecorder-with-hbrecorder is a user-friendly tool that simplifies screen re
 	</details>
 </details>
 
----
 ##  Getting Started
 
 ###  Prerequisites
@@ -323,14 +319,12 @@ Run the test suite using the following command:
 ```
 
 
----
 ##  Project Roadmap
 
 - [X] **`Task 1`**: <strike>Implement feature one.</strike>
 - [ ] **`Task 2`**: Implement feature two.
 - [ ] **`Task 3`**: Implement feature three.
 
----
 
 ##  Contributing
 
@@ -373,16 +367,13 @@ Run the test suite using the following command:
 </p>
 </details>
 
----
 
 ##  License
 
 This project is protected under the [MIT](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/mit/) file.
 
----
 
 ##  Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
 
----
